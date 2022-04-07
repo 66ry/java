@@ -1,1 +1,5 @@
-
+一：
+编译运行
+编译命令：jdk安装路径下的bin\javac.exe      运行命令：C:\javaTools\JDK\bin\java HelloWord 注意使用运行命令时（没有后缀.class）
+>C:\javaTools\JDK\bin\javac HelloWord.java(编译有后缀java)
+二：
